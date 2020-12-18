@@ -5,6 +5,9 @@
 		<members>NexmoConfigurationController</members>
 		<members>NexmoTest</members>
 		<members>NexmoConfigurationControllerTest</members>
+		<members>Nexmo2</members>
+		<members>NexmoMock</members>
+		<members>NexmoTest2</members>
         <name>ApexClass</name>
     </types>
 	<types>
